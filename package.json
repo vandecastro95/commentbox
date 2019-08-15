@@ -2,6 +2,9 @@
   "name": "simpleCommentBox",
   "version": "1.0.0",
   "main": "index.js",
+  "engines": {
+    "node": "10.12.0"
+  },
   "scripts": {
     "start": "node server",
     "server": "nodemon server",
